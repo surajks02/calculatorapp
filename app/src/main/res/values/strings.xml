@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">siricalcii</string>
+    <string name="enter_first_value">Enter First Value</string>
+    <string name="enter_second_value">Enter Second Value</string>
+    <string name="plus">+</string>
+    <string name="subtract">-</string>
+    <string name="multiply">*</string>
+    <string name="divide">/</string>
+</resources>
